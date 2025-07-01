@@ -69,8 +69,8 @@ Germany_Energy_Forecasting/
 │   │   └── processed_data.pkl
 │   └── opsd_germany_daily.csv
 ├── notebooks/
-│   ├── EDA_preprocessing.ipynb
-│   └── Modeling_and_evaluation.ipynb
+│   ├── 01_EDA_Preprocessing_Energy.ipynb
+│   └── 02_Modeling_and_Evaluation_Energy.ipynb
 ├── README.md
 └── requirements.txt
 ```
